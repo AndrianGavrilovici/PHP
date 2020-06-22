@@ -1,0 +1,9 @@
+Laborator 4. Masive
+
+=============================
+
+1. Transpunerea in PHP a doua probleme rezolvate. Turbo Pascal, paginile 45, 58.
+
+2. Turbo Pascal, pagina 52, problema 18 - N, unde N este numarul de ordine din catalog.
+
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Adaugator</title>
+  </head>
+  <body>
+    <form action="schimb_valutar.php">
+      <label for="dolar">$</label>
+      <input type="number" name="dolar" value="17.72">
+      <label for="euro">€</label>
+      <input type="number" name="euro" value="19.41">
+      <label for="rol">rol</label>
+      <input type="number" name="rol" value="4.12"><br>
+      <label for="Lei">Suma de schimb</label>
+      <input type="number" name="suma" value="0">
+      <select name="schimb">
+        <option value="lei">lei</option>
+        <option value="dolar">$</option>
+        <option value="euro">€</option>
+        <option value="rol">rol</option>
+      </select>
+      IN
+      <select name="schimb_in">
+        <option value="lei">lei</option>
+        <option value="dolar">$</option>
+        <option value="euro">€</option>
+        <option value="rol">rol</option>
+      </select>
+      <input type="submit" value="CALCULEAZA">
+    </form>
+  </body>
+</html>

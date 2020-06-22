@@ -1,0 +1,15 @@
+Laborator 7. Gestionarea BD MySQL cu PHP
+
+
+1. Importati (daca nu exista deja pe serverul web) baza de date MySQL creata in cadrul Lucrarii 6 de laborator.
+
+
+2. Creati si executati cu PHP cate 2 interogari:
+a) de selectie;
+b) de sortare;
+c) de inserare a noilor inregistrari;
+d) de actualizare;
+e) de stergere a unor inregisrari;
+f) de totalizare;
+g) de creare a unui tabel nou;
+h) de stergere a tabelului creat in g).

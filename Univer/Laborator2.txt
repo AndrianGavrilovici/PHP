@@ -1,0 +1,26 @@
+==================================
+Laborator 2. Ramificari
+==================================
+
+1. Transpunerea in PHP a unei probleme rezolvate. Turbo Pascal, pagina 18.
+
+2. Problema 19-N, Turbo Pascal, pagina 22, 
+unde N este numarul de ordine din catalog.
+
+Indicatie. Utlilizati experisii conditionate si/sau operatorii if.. else.
+***** Expresia conditionata
+e=(expresia logica) ? expr1:expr2;
+
+s= (n % 2 == 0) ? x+3: 'impar' //   n=249 s<---'impar'   n=34, x=10  s<----13
+
+------------------------------------------------
+
+***** operatorii if... else...
+
+if (expr_logica) instruct1[; else Instructiunea2]
+
+Exemple:
+
+1.   if (s.toUpperCase()==s) rez = 'toate literele din sir sunt majuscule'; 
+
+2.   if (n % 2 == 0) {rez='par'; n=n+2}; else rez='impar';

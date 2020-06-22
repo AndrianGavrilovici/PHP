@@ -1,0 +1,50 @@
+<?php
+    $arr = ['3'=>'a', '1'=>'c', '2'=>'e', '4'=>'b'];
+    print_r($arr);
+    //arsort
+    print("arsort:\n");
+    arsort($arr);
+    print_r($arr);
+    print("\n");
+    //asort
+    print("asort:\n");
+    asort($arr);
+    print_r($arr);
+    print("\n");
+    //ksort
+    print("ksort:\n");
+    ksort($arr);
+    print_r($arr);
+    print("\n");
+    //natsort
+    print("natsort:\n");
+    natsort($arr);
+    print_r($arr);
+    print("\n");
+    //rsort
+    print("rsort:\n");
+    rsort($arr);
+    print_r($arr);
+    print("\n");
+    //sort
+    print("sort:\n");
+    sort($arr);
+    print_r($arr);
+    print("\n");
+    /*
+    print("uasort:\n");
+    uasort($arr);
+    print_r($arr);
+    print("\n");
+    
+    print("uksort:\n");
+    uksort($arr);
+    print_r($arr);
+    print("\n");
+
+    print("usort:\n");
+    usort($arr);
+    print_r($arr);
+    print("\n");
+    */
+?>

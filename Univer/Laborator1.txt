@@ -1,0 +1,8 @@
+============================================================
+Laborator 1. Structuri liniare 
+============================================================
+Rezolvati in PHP problema N+15 din sursa [1], pag 13,
+   unde N este numarul de ordine din catalog.
+
+[1] A. Braicov. Informatica. Turbo Pascal. Culegere de probleme
+

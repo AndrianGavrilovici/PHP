@@ -1,0 +1,13 @@
+Laborator 6. Lucru cu BD MySQL
+
+
+1. Creati o baza de date MySQL (se poate utilizand phpMyAdmin) cu cel puti doua tabele.
+Fiecare tabel va contine cel putin:
+a) 4 campuri de diferite tipuri, dintre care unul - cheie primara; 
+b) 5 inregistrari.
+
+2. Salvati (prin exportare) baza creata.
+
+3. Creati pentru serverul local un drept de utilizator cu toate privilegiile posibile.
+
+4. Realizati o conexiune PHP cu BD creata si afisati datele din tabelele bazei.

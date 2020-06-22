@@ -1,0 +1,30 @@
+Laborator 5. Lucru cu fisierile
+1. Rezolvati problemele PN si AN din lista de mai jos, unde N este numarul de ordine din catalog.
+
+2. Transpuneti in PHP una din problemele rezolvate din lucrarea TP, pag. 109
+
+3. Rezolvati problema 12-N de la pag. 114, unde N este numarul de ordine din catalog.
+
+P1. Sa se scrie un program PHP care calculeaza si afiseaza numarul de randuri din fisierul f1.txt.
+A1. Sa se scrie un program PHP care copie continutul unei casete de text intr-un fisier text.
+
+P2. Sa se scrie un program PHP care calculeaza si afiseaza dimensiunea (volumul) fisierului f1.txt.
+A2. Sa se scrie un program PHP care copie continutul unei zone de editare intr-un fisier text.
+
+P3. Sa se scrie un program PHP care afiseaza doar randurile cu numar de ordine impar din fisierul f1.txt.
+A3. Sa se scrie un program PHP care salveaza intr-un fisier text tabla inmultirii de la 1 la 10.
+
+P4. Sa se scrie un program PHP care afiseaza doar randurile cu numar de ordine par din fisierul f1.txt.
+A4. Sa se scrie un program PHP care salveaza intr-un fisier text toate numerele de 2 cifre.
+
+P5. Sa se scrie un program PHP care afiseaza doar primele 2 randuri din fisierul f1.txt.
+A5. Sa se scrie un program PHP care salveaza intr-un fisier text 20 de numere naturale aleatoare mai mici ca 200.
+
+P6. Sa se scrie un program PHP care afiseaza doar ultimele 2 randuri din fisierul f1.txt.
+A6. Sa se scrie un program PHP care salveaza intr-un fisier text datele (numele si prenuele) a 5 persoane.
+
+P7. Sa se scrie un program PHP care afiseaza doar randurile care au cel putin 5 simboluri, 
+dar nu mai mult de 25 de simboluri.
+A7. Sa se scrie un program PHP care salveaza intr-un fisier text primele 10 numere prime.
+
+

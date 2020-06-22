@@ -1,0 +1,6 @@
+login:admin
+password:admin
+login:test
+password:testpass
+login:andrian
+password:testpass
